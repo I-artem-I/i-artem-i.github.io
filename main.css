@@ -1,0 +1,19 @@
+#_header {
+	color: white;
+	position: fixed;
+	top: 0;
+	background: linear-gradient(to bottom , #5C2A02 , transparent)
+}
+#_contentbox {
+	height: 600px;
+	background-color: white;
+	top: 150px;
+	float: left;
+	overflow: none;
+}
+._all_props {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	justify-content: space-around;
+}
