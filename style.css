@@ -35,7 +35,7 @@ p {
 	background-size: 100%;
 }
 #log {
-	height: 280px;
+	height: 200px;
 	background-color: #c3292d;
 	color: white;
 }
@@ -63,5 +63,5 @@ p {
 #log a {text-decoration: none; color: white;}
 #log a:hover {text-decoration: none; color: white;}
 .icon {
-	width: 200px;
+	width: 150px;
 }
